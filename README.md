@@ -70,3 +70,9 @@ Go to EC2 Instances. Select your instance → Instance State → Terminate.
 ![WhatsApp Image 2025-09-21 at 22 41 09_81469161](https://github.com/user-attachments/assets/e8daf8b3-025a-44f8-b4b6-7498a0a502d4)
 # INSIDE NEW INSTANCES STORAGE EC2:
 ![WhatsApp Image 2025-09-21 at 22 40 13_fcfdb855](https://github.com/user-attachments/assets/058348e8-ba7d-4163-bfa7-601e4b7e7b9a)
+
+# S3 OPERATIONS (DELETING,INSERTING)
+<img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/e9818627-da7d-4927-ad5c-402f90a6b55b" />
+<img width="1067" height="587" alt="image" src="https://github.com/user-attachments/assets/33f5cb30-08b6-4738-8ae5-5f7eb41dfe4c" />
+<img width="1357" height="614" alt="image" src="https://github.com/user-attachments/assets/34d635e7-73f1-43fc-bef7-d3af0c073d06" />
+
